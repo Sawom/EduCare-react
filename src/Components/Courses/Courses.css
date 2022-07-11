@@ -1,0 +1,18 @@
+.course{ 
+    width: auto;
+    margin-left: 5px;
+}
+.cart{
+    margin-left: 5px;
+}
+.text{
+    color: darkblue;
+}
+.searchPosition{
+    text-align: center;
+}
+.searchPosition input{
+    width: 70%;
+    height: 30px;
+    border-radius: 5px;
+}

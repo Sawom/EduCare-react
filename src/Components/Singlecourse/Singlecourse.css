@@ -1,0 +1,23 @@
+.cardStyles{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 3px 5px 5px 3px  lightgray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.cardStyles img{
+    width: auto ;
+}
+.btn-regular{
+    background-color: #0A369B;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.textColor{
+    color: darkblue;
+}
